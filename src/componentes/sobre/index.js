@@ -1,7 +1,7 @@
-import react from "react";
+import React from "react";
 import "./stylo.css";
 
-function Sobre_nos(){
+function Sobre(){
     return(
         <section className="container">
             <h1 className="centralizar">Sobre nós</h1>
@@ -15,4 +15,4 @@ The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for t
     );
 }
 
-export default Sobre_nos;
+export default Sobre;

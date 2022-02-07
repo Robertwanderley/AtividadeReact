@@ -3,7 +3,7 @@ import Header from "../../componentes/header";
 import Footer from "../../componentes/footer";
 
 
-function destinos(){
+function Destino(){
     return(
         <section>
         <Header/>
@@ -12,4 +12,4 @@ function destinos(){
 
     );
 }
-export default destinos;
+export default Destino;

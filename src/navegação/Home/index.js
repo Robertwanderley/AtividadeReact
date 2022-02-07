@@ -3,7 +3,7 @@ import "./stylo.css";
 import Header from "../../componentes/header";
 import Footer from "../../componentes/footer";
 import Buscar from "../../componentes/buscador";
-import Sobre_nos from "../../componentes/sobre";
+import Sobre from "../../componentes/sobre";
 
 function Home(){
     return(
@@ -13,7 +13,7 @@ function Home(){
             <Buscar/>
             <br/>
             <br/>
-            <Sobre_nos></Sobre_nos>
+            <Sobre></Sobre>
             <Footer/>
         </section>
     );

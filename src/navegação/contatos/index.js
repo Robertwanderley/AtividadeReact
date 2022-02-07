@@ -3,7 +3,7 @@ import Header from "../../componentes/header";
 import Footer from "../../componentes/footer";
 
 
-function contatos(){
+function Contatos(){
     return(
         <section>
         <Header/>
@@ -12,4 +12,4 @@ function contatos(){
 
     );
 }
-export default contatos;
+export default Contatos;

@@ -2,8 +2,8 @@
     width: 60px;
     height: auto;
 }
-.largura-header{
-    width: 100%;
+.center-header{
+    text-align: center;
 
 }
 .largura-menu{
@@ -15,4 +15,7 @@
 }
 .fixarnav{
     position: fixed;
+}
+.cor-bg{
+    background-color: yellow;
 }

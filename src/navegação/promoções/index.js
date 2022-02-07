@@ -3,7 +3,7 @@ import Header from "../../componentes/header";
 import Footer from "../../componentes/footer";
 
 
-function promocoes(){
+function Promocoes(){
     return(
         <section>
         <Header/>
@@ -12,4 +12,4 @@ function promocoes(){
 
     );
 }
-export default promocoes;
+export default Promocoes;
