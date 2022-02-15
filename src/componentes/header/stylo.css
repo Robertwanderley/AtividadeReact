@@ -6,16 +6,10 @@
     text-align: center;
 
 }
-.largura-menu{
-    width: 25%;
-
-}
 .cor-texto{
     color: black;
 }
-.fixarnav{
-    position: fixed;
-}
+
 .cor-bg{
-    background-color: yellow;
+    background-color: transparent;
 }
