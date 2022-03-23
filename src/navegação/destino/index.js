@@ -1,14 +1,18 @@
 import React from "react";
-import Header from "../../componentes/header";
 import Footer from "../../componentes/footer";
 import Box from "../../componentes/box";
+import Headers from "../../componentes/header";
 
 function Destino() {
     return (
-        <section>
-            <Header />
+        <section className="container">
+            <Headers/>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
             <Box/>
-            <Footer />
+            <Footer ano={2022}/>
         </section>
 
     );

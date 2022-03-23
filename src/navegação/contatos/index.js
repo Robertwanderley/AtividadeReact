@@ -1,13 +1,15 @@
 import React from "react";
-import Header from "../../componentes/header";
 import Footer from "../../componentes/footer";
 import Formulario from "../../componentes/formulario";
+import Headers from "../../componentes/header";
 
 
 function Contatos(){
     return(
-        <section>
-        <Header/>
+        <section className="container">
+        <Headers/>
+        <br/>
+        <br/>
         <Formulario/>
         <br/>
         <br/>
@@ -16,7 +18,7 @@ function Contatos(){
         <br/>
         <br/>
         <br/>
-        <Footer/>
+        <Footer ano={2022}/>
     </section>
 
     );

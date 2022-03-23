@@ -2,7 +2,7 @@ import React from "react";
 
 function Formulario() {
     return (
-        <div className="container">
+        <div className="container text-center">
             <br /><br /><br />
             <div className="row">
                 <div className="col-6 text-center">
